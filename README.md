@@ -14,7 +14,7 @@ O cronograma conta com mais de 1.500 horas de aulas presenciais e online, aborda
 ##### Bloco 2: Git & GitHub :hourglass_flowing_sand:
 
 - [X] 2-1: _O que é e para que serve?_
-- [ ] 2-2: _Entendendo os comandos_
+- [X] 2-2: _Entendendo os comandos_
 - [ ] 2-3: _Internet - Entendendo como ela funciona_
 
 ##### Bloco 3: Introdução - HTML & CSS :hourglass_flowing_sand:
