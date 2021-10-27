@@ -11,11 +11,11 @@ O cronograma conta com mais de 1.500 horas de aulas presenciais e online, aborda
 - [X] 1-3: _Unix & Shell- Part 1_
 - [X] 1-4: _Unix & Shell- Part 2_
 
-##### Bloco 2: Git & GitHub :hourglass_flowing_sand:
+##### Bloco 2: Git & GitHub :white_check_mark:
 
 - [X] 2-1: _O que é e para que serve?_
 - [X] 2-2: _Entendendo os comandos_
-- [ ] 2-3: _Internet - Entendendo como ela funciona_
+- [X] 2-3: _Internet - Entendendo como ela funciona_
 
 ##### Bloco 3: Introdução - HTML & CSS :hourglass_flowing_sand:
 
